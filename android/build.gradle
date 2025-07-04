@@ -37,6 +37,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    namespace 'de.florianweinaug.system_settings'
 }
 
 dependencies {
